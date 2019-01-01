@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("Original code")
         print("Second commit")
+        print("Third commit")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
